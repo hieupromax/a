@@ -189,7 +189,7 @@ if(!empty($_SESSION['cart'])){
 								<a href="index.php" class="btn btn-upper btn-primary outer-left-xs">Continue Shopping</a>
 								<input type="submit" name="submit" value="Update shopping cart" class="btn btn-upper btn-primary pull-right outer-right-xs">
 							</span>
-						</div><!-- /.shopping-cart-btn -->
+						</div>
 					</td>
 				</tr>
 			</tfoot>
