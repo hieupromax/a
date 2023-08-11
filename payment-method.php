@@ -104,7 +104,7 @@ else{
 
 	</div><!-- row -->
 </div>
-<!-- checkout-step-01  -->
+
 					  
 					  	
 					</div><!-- /.checkout-steps -->
