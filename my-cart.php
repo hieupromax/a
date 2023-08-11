@@ -180,7 +180,7 @@ if(!empty($_SESSION['cart'])){
 					<th class="cart-sub-total item">Shipping Charge</th>
 					<th class="cart-total last-item">Grandtotal</th>
 				</tr>
-			</thead><!-- /thead -->
+			</thead>
 			<tfoot>
 				<tr>
 					<td colspan="7">
