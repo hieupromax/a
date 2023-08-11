@@ -205,7 +205,7 @@ while ($row=mysqli_fetch_array($ret))
 					Rs. <?php echo htmlentities($row['productPrice']);?>			</span>
 										     <span class="price-before-discount">Rs. <?php echo htmlentities($row['productPriceBeforeDiscount']);?></span>
 									
-			</div><!-- /.product-price -->
+			</div>
 			
 		</div><!-- /.product-info -->
 					<div class="cart clearfix animate-effect">
