@@ -176,7 +176,7 @@ if(!empty($_SESSION['cart'])){
 					<th class="cart-product-name item">Product Name</th>
 			
 					<th class="cart-qty item">Quantity</th>
-					<th class="cart-sub-total item">Price Per unit</th>
+					<th class="cart-sub-total item">Price unit</th>
 					<th class="cart-sub-total item">Shipping Charge</th>
 					<th class="cart-total last-item">Grandtotal</th>
 				</tr>

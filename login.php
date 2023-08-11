@@ -200,7 +200,7 @@ echo htmlentities($_SESSION['errmsg']="");
 
 <!-- create a new account -->
 <div class="col-md-6 col-sm-6 create-new-account">
-	<h4 class="checkout-subtitle">create a new account</h4>
+	<h4 class="checkout-subtitle">create new account</h4>
 	<p class="text title-tag-line">Create your own Shopping account.</p>
 	<form class="register-form outer-top-xs" role="form" method="post" name="register" onSubmit="return valid();">
 <div class="form-group">
@@ -211,7 +211,7 @@ echo htmlentities($_SESSION['errmsg']="");
 
 		<div class="form-group">
 	    	<label class="info-title" for="exampleInputEmail2">Email Address <span>*</span></label>
-	    	<input type="email" class="form-control unicase-form-control text-input" id="email" onBlur="userAvailability()" name="emailid" required >
+	    	<input type="text" class="form-control unicase-form-control text-input" id="email" onBlur="userAvailability()" name="emailid" required >
 	    	       <span id="user-availability-status1" style="font-size:12px;"></span>
 	  	</div>
 

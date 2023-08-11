@@ -36,7 +36,7 @@
             		 <!-- ============================================================= CONTACT TIMING============================================================= -->
 <div class="contact-timing">
 	<div class="module-heading">
-		<h4 class="module-title">opening time</h4>
+		<h4 class="module-title">opening </h4>
 	</div><!-- /.module-heading -->
 
 	<div class="module-body outer-top-xs">
