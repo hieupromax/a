@@ -236,7 +236,7 @@ echo htmlentities($_SESSION['errmsg']="");
 	<span class="checkout-subtitle outer-top-xs">Sign Up Today And You'll Be Able To :  </span>
 	<div class="checkbox">
 	  	<label class="checkbox">
-		  	Speed your way through the checkout
+		  	Speed your way through the checkout.
 		</label>
 		<label class="checkbox">
 		Track your orders easily.
